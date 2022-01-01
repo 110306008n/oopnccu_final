@@ -19,6 +19,7 @@ public class OOXX {
 			HumanPlayer opponent = new HumanPlayer(nameScanner.nextLine(),0);
 			opponent.start();
 			opponent.humanBattle();
+			
 		}
 
 	}
